@@ -8,7 +8,7 @@ All results and findings are discussed in detail in the accompanying report.
 
 - `Clotan Notebooks`: Training and evaluation for the Spanish model and DistilBERT-specific experiments.
 - `Izvoreanu Notebooks`: Training and evaluation for the German model and XLM-RoBERTa.
-- `Gravina Notebooks`: Training and evaluation for the English model and BERT.
+- `Gravina Notebooks`: Training and evaluation for the English model and BERT, and the evaluation of the aggregated ensemble model.
 - `Models weights`: Pretrained and fine-tuned model weights.
 - `Data Analysis.ipynb`: Common preprocessing pipeline used across all runs.
 - `ethics-distilbert-training.ipynb` and `model-evaluation.ipynb`: Central notebooks for DistilBERT training and metric reporting.
